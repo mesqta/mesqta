@@ -6,8 +6,6 @@
  &nbsp;
  &nbsp;
 
-
-
 ## Minhas habilidades
 
 #### Pilha Principal:
